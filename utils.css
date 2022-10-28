@@ -1,0 +1,80 @@
+.text-center {
+    text-align: center;
+}
+
+.bg-red {
+    background-color: rgb(255, 255, 255);
+
+}
+
+.button {
+    padding: 25px;
+    margin: 5px;
+    font-family: 'Signika Negative', sans-serif;
+    border-style: none;
+    background-color: white;
+    text-align: center;
+
+}
+
+.btn-ac {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.btn-c {
+    padding-left: 22px;
+    padding-right: 22px;
+}
+
+.btn-x {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-p {
+    padding-left: 18px;
+    padding-right: 18px;
+}
+
+.btn-a {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.btn-e {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgb(255, 116, 116);
+    color: white;
+    height: 85px;
+    width: 75px;
+    border-radius: 50%;
+
+}
+.button:hover {
+    box-shadow: 0 0 0 2px #ff0000;
+    background-color: rgb(238, 238, 238);
+    border-radius: 20px;
+}
+.btn-e:hover{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    height: 85px;
+    width: 75px;
+    border-radius: 50%;
+
+}
+
+.row-1 .button {
+    color: rgb(243, 36, 36);
+}
+
+.btn-s {
+    color: rgb(243, 36, 36);
+    
+}
+.btn-q{
+    color: rgb(243, 36, 36);
+
+}
